@@ -9,4 +9,4 @@
 
 ## But who am I anyways?
 
-Fashion Designer currentlyn studying codes and stuff... but mainly Game Dev wich is *what I want for life!*
+I'm a Game Dev *mainly* but also very interesed in Software Engeneering! Also I'm a Fashion Designer and you'll see this part of me on my games!
