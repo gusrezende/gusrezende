@@ -9,3 +9,4 @@
 
 ## But who am I anyways?
 
+Fashion Designer currentlyn studying codes and stuff... but mainly Game Dev wich is *what I want for life!*
