@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# This is what I know!
+## Hey cute! This is what I know! 🤍
 
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/UnrealEngine.svg" alt="Texto Alternativo" width="100" height="50"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Blender-Dark.svg" alt="Texto Alternativo" width="100" height="50"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Unity-Dark.svg" alt="Texto Alternativo" width="100" height="50">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Python-Light.svg" alt="Texto Alternativo" width="100" height="50">
